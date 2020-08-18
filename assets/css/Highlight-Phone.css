@@ -46,7 +46,7 @@
   background: none;
   box-shadow: none;
   text-shadow: none;
-  opacity: 0.9;
+  opacity: 1;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 13px;
@@ -63,7 +63,7 @@
 }
 
 .highlight-phone .intro .btn-primary {
-  background-color: #055ada;
+  background-color: #1e6adde3;
   color: #fff;
 }
 
@@ -72,7 +72,7 @@
   max-width: 260px;
   margin-top: -30px;
   margin-bottom: -230px;
-  transform: rotate(-15deg);
+  transform: rotate(0deg);
 }
 
 .highlight-phone .iphone-mockup img.device {
@@ -103,7 +103,7 @@
   height: 140%;
   top: -12%;
   right: -60%;
-  transform: rotate(-19deg);
-  opacity: 0.2;
+  
+  
 }
 
